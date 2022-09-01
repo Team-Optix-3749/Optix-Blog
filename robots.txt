@@ -1,1 +1,1 @@
-Sitemap: http://blog.team3749.org/sitemap.xml
+Sitemap: https://blog.team3749.org/sitemap.xml
