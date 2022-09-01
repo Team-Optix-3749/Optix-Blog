@@ -1,1 +1,1 @@
-Sitemap: https://team-optix-3749.github.io/Optix_blog_2022-23/sitemap.xml
+Sitemap: http://blog.team3749.org/sitemap.xml
