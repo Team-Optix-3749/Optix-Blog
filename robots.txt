@@ -1,1 +1,1 @@
-Sitemap: https://fastpages.fast.ai/sitemap.xml
+Sitemap: https://team-optix-3749.github.io/Optix_blog_2022-23/sitemap.xml
