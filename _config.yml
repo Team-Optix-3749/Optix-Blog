@@ -6,8 +6,8 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: fastpages
-description: An easy to use blogging platform with support for Jupyter Notebooks.
+title: Optix 3749 Blog
+description: Team Optix 3749's blog. Here we post updates on everythong that our FRC robotics team does!
 github_username: Team-Optix-3749
 # you can comment the below line out if your repo name is not different than your baseurl
 github_repo: "Optix_blog_2022-23"
