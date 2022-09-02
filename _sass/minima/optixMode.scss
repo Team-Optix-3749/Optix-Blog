@@ -1,5 +1,5 @@
 $high-emph: rgba(rgb(11, 237, 30), 0.87);
-$med-emph: rgba(white, 0.69); //Noicee
+$med-emph: rgba(white, 0.69); 
 $low-emph: rgba(rgb(101, 245, 236), 0.38);
 $dark-grey : #121212; 
 // $dark-grey : #1F1B24;
@@ -19,8 +19,11 @@ a:hover {
     color:$high-emph !important;
 }
 
-.site-title, .site-title:visited, .site-nav, .page-link {
+.site-title, .site-title:visited {
     color: $high-emph !important;
+}
+.site-nav, .page-link{
+    color:$low-emph !important;
 }
 
 .site-nav {
