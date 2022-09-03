@@ -1,7 +1,7 @@
 $high-emph: rgba(rgb(11, 237, 30), 0.87);
 $med-emph: rgba(white, 0.69); 
-$low-emph: rgba(rgb(101, 245, 236), 0.38);
-$dark-grey : #121212; 
+$low-emph: rgba(rgb(0, 255, 238), 0.38);
+$dark-grey : #ffffff; 
 // $dark-grey : #1F1B24;
 $overlay: mix($dark-grey, white, 95%);
 $overlay-light: mix($dark-grey, white, 86%);
@@ -16,7 +16,7 @@ a {
 }
 
 a:hover {
-    color:$high-emph !important;
+    color:$low-emph !important;
 }
 
 .site-title, .site-title:visited {
