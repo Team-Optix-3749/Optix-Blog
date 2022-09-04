@@ -1,8 +1,12 @@
-$high-emph: rgba(rgb(11, 210, 30), 0.87);
-$med-emph: rgba(white, 0.69); 
-$low-emph: rgba(rgb(0, 255, 238), 0.38);
+$high-emph: rgba(rgb(11, 210, 30), 0.87); 
+$optix-green: #b2f218; // optix colors
+$optix-blue: #00b5cf; 
+$optix-navy: #071d62; 
+$med-emph: rgba(rgb(255, 255, 255), 0.78); 
+$low-emph: rgba(rgb(255, 255, 255), 0.38);
 $dark-grey : #121212; 
 // $dark-grey : #1F1B24;
+$optix-overlayblue: mix($optix-blue, white, 69%);
 $overlay: mix($dark-grey, white, 95%);
 $overlay-light: mix($dark-grey, white, 86%);
 
@@ -16,14 +20,16 @@ a {
 }
 
 a:hover {
-    color:$low-emph !important;
+    color:$optix-blue !important;
 }
 
 .site-title, .site-title:visited {
     color: $high-emph !important;
 }
+
 .site-nav, .page-link{
-    color:$low-emph !important;
+    color:$optix-overlayblue!important;
+    
 }
 
 .site-nav {
