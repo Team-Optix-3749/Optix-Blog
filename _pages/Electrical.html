@@ -1,0 +1,60 @@
+---
+layout: page
+title: Electrical
+permalink: /electrical/
+---
+
+<h1> Welcome to Team Optix's Electrical Page! </h1> 
+<p> If you're here to find all of Team Optix 3749's electrical team updates as well as videos, you're in the right place! </p>
+
+
+<h2>Team Members:</h2>
+<ul id = "team"> </ul>
+<script>
+  var data = ["Alex Z: Director of Electrical", "Chinmay R", "Varalu N", "Collin M"];
+  
+  var list = document.getElementById("team");
+
+  data.forEach((item) => {
+    let li = document.createElement("li");
+    li.innerText = item;
+    list.appendChild(li);
+  });
+
+
+</script>
+
+
+
+
+
+ 
+{% if site.categories.Electrical.size > 0 %}
+
+<h2>Preseason</h2>
+{% for post in site.posts %}
+        {% if post.tags contains "Preseason" and post.hide != true %}
+        <li><a href = "{{ post.url }}">{{ post.title }}</a></li>
+        {% endif %}
+
+{% endfor %}
+
+<h2>Build Season</h2>
+{% for post in site.posts %}
+        {% if post.tags contains "Build Season" and post.hide != true %}
+        <li><a href = "{{ post.url }}">{{ post.title }}</a></li>
+        {% endif %}
+
+{% endfor %}
+
+
+<h2>Post Season</h2>
+{% for post in site.posts %}
+        {% if post.tags contains "Postseason" and post.hide != true %}
+        <li><a href = "{{ post.url }}">{{ post.title }}</a></li>
+        {% endif %}
+
+{% endfor %}
+
+
+{% endif %}
