@@ -1,7 +1,7 @@
 $high-emph: rgba(rgb(11, 210, 30), 0.87); 
-$optix-green: #b2f218; // optix colors
-$optix-blue: #00b5cf; 
-$optix-navy: #071d62; 
+$optix-green:rgba(rgb(178, 242, 24), 1.0); // optix colors
+$optix-blue: rgba(rgb(0, 181, 207), 1.0); 
+$optix-navy: rgba(rgb(7, 29, 98), 1.0); 
 $med-emph: rgba(rgb(255, 255, 255), 0.78); 
 $low-emph: rgba(rgb(255, 255, 255), 0.38);
 $dark-grey : #121212; 
@@ -26,6 +26,7 @@ a:hover {
 .site-title, .site-title:visited {
     color: $high-emph !important;
 }
+
 
 .site-nav, .page-link{
     color:$optix-overlayblue!important;
