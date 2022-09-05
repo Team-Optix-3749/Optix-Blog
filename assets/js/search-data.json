@@ -2,6 +2,17 @@
   
     
         "post0": {
+            "title": "Another",
+            "content": "Another .",
+            "url": "https://blog.team3749.org/build/2022/09/05/buildbuild.html",
+            "relUrl": "/build/2022/09/05/buildbuild.html",
+            "date": " • Sep 5, 2022"
+        }
+        
+    
+  
+    
+        ,"post1": {
             "title": "Preseason",
             "content": "Preseason template .",
             "url": "https://blog.team3749.org/electrical/2022/09/04/preseason.html",
@@ -12,7 +23,7 @@
     
   
     
-        ,"post1": {
+        ,"post2": {
             "title": "Postseason",
             "content": "Postseason .",
             "url": "https://blog.team3749.org/electrical/2022/09/04/postseason.html",
@@ -23,7 +34,7 @@
     
   
     
-        ,"post2": {
+        ,"post3": {
             "title": "Build Season",
             "content": "Build season .",
             "url": "https://blog.team3749.org/electrical/2022/09/04/build.html",
@@ -39,6 +50,17 @@
 
   
       ,"page1": {
+          "title": "Build",
+          "content": "Welcome to Team Optix&#39;s Build Page! . Team Optix&#39;s 3749 Build&#39;s Team! - Alex Z, Director of Electrical Systems . Team Members: . . Preseason . Build Season . Post Season .",
+          "url": "https://blog.team3749.org/build/",
+          "relUrl": "/build/",
+          "date": ""
+      }
+      
+  
+
+  
+      ,"page2": {
           "title": "Electrical",
           "content": "Welcome to Team Optix&#39;s Electrical Page! . If you&#39;re here to find all of Team Optix 3749&#39;s electrical team updates as well as videos, you&#39;re in the right place! . Team Members: . . Preseason . Build Season . Post Season .",
           "url": "https://blog.team3749.org/electrical/",
@@ -49,7 +71,7 @@
   
 
   
-      ,"page2": {
+      ,"page3": {
           "title": "About Us",
           "content": "",
           "url": "https://blog.team3749.org/about/",
@@ -81,7 +103,7 @@
   
 
   
-      ,"page11": {
+      ,"page12": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
           "url": "https://blog.team3749.org/robots.txt",
