@@ -15,3 +15,10 @@ You must save your notebook with the naming convention `YYYY-MM-DD-*.md`.  Examp
 
 - [Jekyll posts](https://jekyllrb.com/docs/posts/)
 - [Example markdown post](https://github.com/fastai/fastpages/blob/master/_posts/2020-01-14-test-markdown-post.md)
+
+# How to make posts (!Important)
+- Create a post using yyyy-mm-dd-name nomenclature 
+- in the categories: set it to you department with the first letter capitalized
+    - i.e: Electrical
+- In the tags, name them as such: Preseason, Build Season, or Postseason, depending on when they occur. If you have alternate tag names, let people know so they can be implemented
+- This allows you page to automatically load with each post.
