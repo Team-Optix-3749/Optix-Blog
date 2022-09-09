@@ -1,0 +1,48 @@
+---
+layout: page
+title: Software
+permalink: /software/
+---
+
+<p> Team Optix 3749 Software Blog Posts </p>
+
+{% if site.categories.Software.size > 0 %}
+
+  {% for post in site.posts %}
+
+    {% if post.tags contains "Software" and post.hide != true %}
+
+      <li>
+        <a href="{{ post.url }}">{{ post.title }}</a>
+      </li>
+
+    {% endif %}
+
+  {% endfor %}
+
+{% else %}
+
+  <p> Our department is working on posts from this category! </p>
+
+{% endif %}
+
+<h4>Team Members:</h4>
+<table style="text-align: center;">
+  <tr id="table">
+
+  </tr>
+</table>
+
+<script>
+
+  var data = ["Toby L", "Rohin S", "Rohan J", "Jadon L", "Dash P"];
+
+  var list = document.getElementById("table");
+
+  data.forEach((item) => {
+    let li = document.createElement("td");
+    li.innerText = item;
+    list.appendChild(li);
+  });
+
+</script>
