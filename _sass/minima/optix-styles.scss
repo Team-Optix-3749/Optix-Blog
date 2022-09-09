@@ -1,12 +1,15 @@
-$high-emph: rgba(rgb(11, 210, 30), 0.87); 
-$optix-green:rgba(rgb(178, 242, 24), 1.0); // optix colors
+
+// optix colors
+$optix-green:rgba(rgb(178, 242, 24), 1.0);
 $optix-blue: rgba(rgb(0, 181, 207), 1.0); 
 $optix-navy: rgba(rgb(7, 29, 98), 1.0); 
+$optix-overlayblue: mix($optix-blue, white, 69%);
+
+$high-emph: rgba(rgb(11, 210, 30), 0.87); 
 $med-emph: rgba(rgb(255, 255, 255), 0.78); 
 $low-emph: rgba(rgb(255, 255, 255), 0.38);
 $dark-grey : #121212; 
 // $dark-grey : #1F1B24;
-$optix-overlayblue: mix($optix-blue, white, 69%);
 $overlay: mix($dark-grey, white, 95%);
 $overlay-light: mix($dark-grey, white, 86%);
 
@@ -29,7 +32,7 @@ a:hover {
 
 
 .site-nav, .page-link{
-    color:$optix-overlayblue!important;
+    color:$med-emph!important;
     
 }
 
