@@ -1,57 +1,11 @@
 {
   
-    
-        "post0": {
-            "title": "Another",
-            "content": "Another .",
-            "url": "https://blog.team3749.org/build/2022/09/05/buildbuild.html",
-            "relUrl": "/build/2022/09/05/buildbuild.html",
-            "date": " • Sep 5, 2022"
-        }
-        
-    
-  
-    
-        ,"post1": {
-            "title": "Preseason",
-            "content": "Preseason template .",
-            "url": "https://blog.team3749.org/electrical/2022/09/04/preseason.html",
-            "relUrl": "/electrical/2022/09/04/preseason.html",
-            "date": " • Sep 4, 2022"
-        }
-        
-    
-  
-    
-        ,"post2": {
-            "title": "Postseason",
-            "content": "Postseason .",
-            "url": "https://blog.team3749.org/electrical/2022/09/04/postseason.html",
-            "relUrl": "/electrical/2022/09/04/postseason.html",
-            "date": " • Sep 4, 2022"
-        }
-        
-    
-  
-    
-        ,"post3": {
-            "title": "Build Season",
-            "content": "Build season .",
-            "url": "https://blog.team3749.org/electrical/2022/09/04/build.html",
-            "relUrl": "/electrical/2022/09/04/build.html",
-            "date": " • Sep 4, 2022"
-        }
-        
-    
-  
 
   
   
-
-  
-      ,"page1": {
+      "page0": {
           "title": "Build",
-          "content": "Welcome to Team Optix&#39;s Build Page! . Team Optix&#39;s 3749 Build&#39;s Team! . Team Members: . . Preseason . Build Season . Post Season .",
+          "content": "Team Optix 3749 Build Blog Posts . Our department is working on posts from this category! . Team Members: . .",
           "url": "https://blog.team3749.org/build/",
           "relUrl": "/build/",
           "date": ""
@@ -60,9 +14,20 @@
   
 
   
+      ,"page1": {
+          "title": "Software",
+          "content": "Team Optix 3749 Software Blog Posts . Our department is working on posts from this category! . Team Members: . .",
+          "url": "https://blog.team3749.org/software/",
+          "relUrl": "/software/",
+          "date": ""
+      }
+      
+  
+
+  
       ,"page2": {
           "title": "Electrical",
-          "content": "Welcome to Team Optix&#39;s Electrical Page! . If you&#39;re here to find all of Team Optix 3749&#39;s electrical team updates as well as videos, you&#39;re in the right place! . Team Members: . . Preseason . Build Season . Post Season .",
+          "content": "Team Optix 3749 Electrical Blog Posts . Our department is working on posts from this category! . Team Members: . .",
           "url": "https://blog.team3749.org/electrical/",
           "relUrl": "/electrical/",
           "date": ""
@@ -71,7 +36,13 @@
   
 
   
-      ,"page3": {
+
+  
+
+  
+
+  
+      ,"page6": {
           "title": "About Us",
           "content": "",
           "url": "https://blog.team3749.org/about/",
@@ -87,10 +58,6 @@
   
 
   
-
-  
-  
-
   
 
   
@@ -103,7 +70,7 @@
   
 
   
-      ,"page12": {
+      ,"page13": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
           "url": "https://blog.team3749.org/robots.txt",
