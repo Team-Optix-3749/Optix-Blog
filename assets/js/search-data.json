@@ -5,7 +5,7 @@
   
       "page0": {
           "title": "Build",
-          "content": "Team Optix 3749 Build Blog Posts . Our department is working on posts from this category! . Team Members: . .",
+          "content": "Team Optix 3749 Build Blog Posts . This department doesn&#39;t have any blog posts yet 😔 Team Members: . .",
           "url": "https://blog.team3749.org/build/",
           "relUrl": "/build/",
           "date": ""
@@ -16,7 +16,7 @@
   
       ,"page1": {
           "title": "Software",
-          "content": "Team Optix 3749 Software Blog Posts . Our department is working on posts from this category! . Team Members: . .",
+          "content": "Team Optix 3749 Software Blog Posts . This department doesn&#39;t have any blog posts yet 😔 Team Members: . .",
           "url": "https://blog.team3749.org/software/",
           "relUrl": "/software/",
           "date": ""
@@ -27,7 +27,7 @@
   
       ,"page2": {
           "title": "Electrical",
-          "content": "Team Optix 3749 Electrical Blog Posts . Our department is working on posts from this category! . Team Members: . .",
+          "content": "Team Optix 3749 Electrical Blog Posts . This department doesn&#39;t have any blog posts yet 😔 Team Members: . .",
           "url": "https://blog.team3749.org/electrical/",
           "relUrl": "/electrical/",
           "date": ""
@@ -42,17 +42,6 @@
   
 
   
-      ,"page6": {
-          "title": "About Us",
-          "content": "",
-          "url": "https://blog.team3749.org/about/",
-          "relUrl": "/about/",
-          "date": ""
-      }
-      
-  
-
-  
 
   
   
@@ -70,7 +59,7 @@
   
 
   
-      ,"page13": {
+      ,"page12": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
           "url": "https://blog.team3749.org/robots.txt",
