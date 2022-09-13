@@ -11,7 +11,7 @@ In the software sub department, we work on everything from robot code to app dev
 
 ## Links/Supplementary Material
  - [Preseason Training Slides](https://drive.google.com/drive/folders/16X8u_ZA4LTBs8cj3nJHDY29mdALZ8hV8?usp=sharing)
- - [Summer Training Slides](https://drive.google.com/drive/folders/16X8u_ZA4LTBs8cj3nJHDY29mdALZ8hV8?usp=sharing)
+ - [Summer Training Slides](https://drive.google.com/drive/folders/1yiBYh-gfCsRGrxsXdD-Bh4082cl2erk8?usp=sharing)
    - [Java Training Exercises](https://github.com/Team-Optix-3749/Java-Training-Exercises)
 
 <h4>Team Members:</h4>
