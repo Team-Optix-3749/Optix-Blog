@@ -23,5 +23,4 @@ hide: true
 
 - Slides [Slides Link](https://google.com)
 
-
-###### Author: `Author Name`
+> Author: author
