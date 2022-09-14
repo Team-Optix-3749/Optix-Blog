@@ -6,11 +6,11 @@ permalink: /build/
 
 <p> Team Optix 3749 Build Blog Posts </p>
 
-{% if site.categories.Build.size > 0 %}
+{% if site.categories.build.size > 0 %}
 
   {% for post in site.posts %}
 
-    {% if post.tags contains "Software" and post.hide != true %}
+    {% if post.categories contains "build" and post.hide != true %}
 
       <li>
         <a href="{{ post.url }}">{{ post.title }}</a>

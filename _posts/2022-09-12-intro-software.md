@@ -3,7 +3,6 @@ toc: false
 layout: post
 description: Welcome to our software department!
 categories: [software]
-tags: true 
 title: Welcome to Software!
 ---
 

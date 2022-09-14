@@ -6,11 +6,11 @@ permalink: /electrical/
 
 <p> Team Optix 3749 Electrical Blog Posts </p>
 
-{% if site.categories.Electrical.size > 0 %}
+{% if site.categories.electrical.size > 0 %}
 
   {% for post in site.posts %}
 
-    {% if post.tags contains "Electrical" and post.hide != true %}
+    {% if post.categories contains "electrical" and post.hide != true %}
 
       <li>
         <a href="{{ post.url }}">{{ post.title }}</a>

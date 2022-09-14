@@ -6,11 +6,11 @@ permalink: /software/
 
 <p> Team Optix 3749 Software Blog Posts </p>
 
-{% if site.categories.Software.size > 0 %}
+{% if site.categories.software.size > 0 %}
 
   {% for post in site.posts %}
 
-    {% if post.tags contains "Software" and post.hide != true %}
+    {% if post.categories contains "software" and post.hide != true %}
 
       <li>
         <a href="{{ post.url }}">{{ post.title }}</a>
