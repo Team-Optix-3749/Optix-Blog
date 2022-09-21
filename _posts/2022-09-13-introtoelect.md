@@ -3,7 +3,7 @@ toc: false
 layout: post
 description: Recap of week 1 meeting
 categories: [electrical] 
-title: Electrical Week 1 Meetings
+title: Electrical Week 1 Meeting
 hide: false
 image: Dept images
 ---
@@ -12,9 +12,10 @@ image: Dept images
  - Covered board and board components
  - Learned to plug stuff into the PDP
  - Learned how to strip wires
+ - Getting to know one another
 
 ## Homework
-None lmao. Just review the slides if you need it.
+None. Just review the slides if you need it.
 
 ## Goals for Next Meeting
  - We're going to review connectors
