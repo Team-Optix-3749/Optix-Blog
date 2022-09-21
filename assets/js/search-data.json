@@ -13,6 +13,17 @@
   
     
         ,"post1": {
+            "title": "Electrical Week 1 Meetings",
+            "content": "Meeting Notes . Covered board and board components | Learned to plug stuff into the PDP | Learned how to strip wires | . Homework . None lmao. Just review the slides if you need it. . Goals for Next Meeting . We’re going to review connectors | Review board creation | Make sure we have mastery over | . Links/Supplementary Material . Slides from today | Team Optix Technology Folder | . Author: Varaprasad Nibhanupudi .",
+            "url": "https://blog.team3749.org/electrical/2022/09/13/introtoelect.html",
+            "relUrl": "/electrical/2022/09/13/introtoelect.html",
+            "date": " • Sep 13, 2022"
+        }
+        
+    
+  
+    
+        ,"post2": {
             "title": "Hey Open Alliance!",
             "content": "This is our new Open Alliance Blog Page! We’ll be posting everything from meeting recaps to team bonding activities! Here at Team Optix 3749, we seek to create sustainable access to STEM opportunities in our community and the world! We strive to inspire a generation of leaders, paving the way for local and global change through STEM education. For Team Optix, FIRST is more than robots. . Team Structure . Our team is led by the president and four vice presidents–one for each departmart. Department and subdepartment leads are chosen by the VP. . Build Fabrication/Assembly | Design | . | Technology Software | Electrical | . | Outreach Awards | . | Business Fundraising | Public Relations | Finance | . | . #OpenAlliance . Author: Rohin Sood .",
             "url": "https://blog.team3749.org/misc/2022/09/12/intro.html",
@@ -23,7 +34,7 @@
     
   
     
-        ,"post2": {
+        ,"post3": {
             "title": "Welcome to Software!",
             "content": "In the software sub department, we work on everything from robot code to app development. We’ll be posting weekly meeting updates and our weekly slides/curricula within this category. Check out our GitHub! . Links/Supplementary Material . Preseason Training Slides | Summer Training Slides Java Training Exercises | . | . Team Members: . . Author: Rohin Sood .",
             "url": "https://blog.team3749.org/software/2022/09/12/intro-software.html",
@@ -60,7 +71,7 @@
   
       ,"page2": {
           "title": "Electrical",
-          "content": "Team Optix 3749 Electrical Blog Posts . This department doesn&#39;t have any blog posts yet 😔 Team Members: . .",
+          "content": "Team Optix 3749 Electrical Blog Posts . &lt;li&gt; &lt;a href=&quot;/electrical/2022/09/13/introtoelect.html&quot;&gt;Electrical Week 1 Meetings&lt;/a&gt; &lt;/li&gt; . Team Members: . .",
           "url": "https://blog.team3749.org/electrical/",
           "relUrl": "/electrical/",
           "date": ""
