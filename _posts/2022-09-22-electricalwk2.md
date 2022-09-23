@@ -27,4 +27,5 @@ image: Dept images
 ## Links/Supplementary Material  
 - [Slides from today](https://docs.google.com/presentation/d/1X2HSGouqs9ddtDezKYznebvT0VBRPewc5Hot-QqsZd8/edit?usp=sharing)  
 - [Day One Slides if you Need Review](https://docs.google.com/presentation/d/1Fy0CMHcj08jdwPNljXRYcRkCK3xdZxKA0lu8hL2MDZg/edit)  
-- [Team Optix Technology Folder](https://drive.google.com/drive/folders/1D4VNl_CzpGJff69jR2onBDxhrS-d7Ol8?usp=sharing)  > Author: Varaprasad Nibhanupudi
+- [Team Optix Technology Folder](https://drive.google.com/drive/folders/1D4VNl_CzpGJff69jR2onBDxhrS-d7Ol8?usp=sharing)  
+> Author: Varaprasad Nibhanupudi
