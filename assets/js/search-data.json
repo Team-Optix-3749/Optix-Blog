@@ -2,7 +2,7 @@
   
     
         "post0": {
-            "title": "Electrical Meeting Week 2",
+            "title": "Electrical Week [2] Meeting Updates",
             "content": "Meeting Notes . Electrical board design and positioning | Different types of removable connectors | Tools and methods for wire management on our robot | Created our own electrical board designs! | . Homework . Optional: If you’d like to do stacked and compact board designs, that’d be great! | Similarly, you could also create your own design! | . Goals for Next Meeting . Cover crimping, a new way to connect wires together | Cover soldering | Cover some basic circuit theory (types of circuits, Ohm’s law) | If we have time, introduce more returning members to projects. | . Links/Supplementary Material . Slides from today | Day One Slides if you Need Review | Team Optix Technology Folder | . Author: Varaprasad Nibhanupudi .",
             "url": "https://blog.team3749.org/electrical/2022/09/22/electrical-two.html",
             "relUrl": "/electrical/2022/09/22/electrical-two.html",
@@ -35,7 +35,7 @@
   
     
         ,"post3": {
-            "title": "Electrical Week [1[] Meeting Updates",
+            "title": "Electrical Week [1] Meeting Updates",
             "content": "Meeting Notes . Covered board and board components | Learned to plug stuff into the PDP | Learned how to strip wires | Getting to know one another | . Homework . None. Just review the slides if you need it. . Goals for Next Meeting . We’re going to review connectors | Review board creation | Make sure we have mastery over | . Links/Supplementary Material . Slides from today | Team Optix Technology Folder | . Author: Varaprasad Nibhanupudi .",
             "url": "https://blog.team3749.org/electrical/2022/09/13/electrical-one.html",
             "relUrl": "/electrical/2022/09/13/electrical-one.html",
@@ -93,7 +93,7 @@
   
       ,"page2": {
           "title": "Electrical",
-          "content": "Team Optix 3749 Electrical Blog Posts . &lt;li&gt; &lt;a href=&quot;/electrical/2022/09/22/electrical-two.html&quot;&gt;Electrical Meeting Week 2&lt;/a&gt; &lt;/li&gt; &lt;li&gt; &lt;a href=&quot;/electrical/2022/09/13/electrical-one.html&quot;&gt;Electrical Week [1[] Meeting Updates&lt;/a&gt; &lt;/li&gt; . Team Members: . .",
+          "content": "Team Optix 3749 Electrical Blog Posts . &lt;li&gt; &lt;a href=&quot;/electrical/2022/09/22/electrical-two.html&quot;&gt;Electrical Week [2] Meeting Updates&lt;/a&gt; &lt;/li&gt; &lt;li&gt; &lt;a href=&quot;/electrical/2022/09/13/electrical-one.html&quot;&gt;Electrical Week [1] Meeting Updates&lt;/a&gt; &lt;/li&gt; . Team Members: . .",
           "url": "https://blog.team3749.org/electrical/",
           "relUrl": "/electrical/",
           "date": ""
