@@ -2,10 +2,10 @@
   
     
         "post0": {
-            "title": "Software Week [3] Meeting Updates",
+            "title": "Software Week [2] Meeting Updates",
             "content": "Meeting Notes . Most people were able to fork, clone, make commits to, and push changes to their java training repository | Sometimes branches in VS Code didn’t appear This is because you need to include the copy all branches setting when creating a template!!! This means you will have to make another template &amp; clone it to get the branches on your system! | . | . | . Homework . Have your fork cloned on your laptop | Complete the activity in the printing folder of the week1 branch | Push your changes &amp; send the link to your repository to us! NOTE: We, as leads, will provide feedback on the repositories you send us regarding your code, commit messages, etc. | Goals for Next Meeting . Code, code code | Stick to a proper timeline so that all topics are covered per week | . Links/Supplementary Material . Slides from today | Java Training Repo | Team Optix Technology Folder | . Author: Rohin Sood .",
-            "url": "https://blog.team3749.org/software/2022/09/28/software-three.html",
-            "relUrl": "/software/2022/09/28/software-three.html",
+            "url": "https://blog.team3749.org/software/2022/09/28/software-two.html",
+            "relUrl": "/software/2022/09/28/software-two.html",
             "date": " • Sep 28, 2022"
         }
         
@@ -104,7 +104,7 @@
   
       ,"page1": {
           "title": "Software",
-          "content": "Team Optix 3749 Software Blog Posts . &lt;li&gt; &lt;a href=&quot;/software/2022/09/28/software-three.html&quot;&gt;Software Week [3] Meeting Updates&lt;/a&gt; &lt;/li&gt; &lt;li&gt; &lt;a href=&quot;/software/2022/09/13/software-zero.html&quot;&gt;Software Week [0] Meeting Updates&lt;/a&gt; &lt;/li&gt; &lt;li&gt; &lt;a href=&quot;/software/2022/09/13/software-one.html&quot;&gt;Software Week [1] Meeting Updates&lt;/a&gt; &lt;/li&gt; &lt;li&gt; &lt;a href=&quot;/software/2022/09/12/intro-software.html&quot;&gt;Welcome to Software!&lt;/a&gt; &lt;/li&gt; . Team Members: . .",
+          "content": "Team Optix Software Slides . . Team Optix 3749 Software Blog Posts . &lt;li&gt; &lt;a href=&quot;/software/2022/09/28/software-two.html&quot;&gt;Software Week [2] Meeting Updates&lt;/a&gt; &lt;/li&gt; &lt;li&gt; &lt;a href=&quot;/software/2022/09/13/software-zero.html&quot;&gt;Software Week [0] Meeting Updates&lt;/a&gt; &lt;/li&gt; &lt;li&gt; &lt;a href=&quot;/software/2022/09/13/software-one.html&quot;&gt;Software Week [1] Meeting Updates&lt;/a&gt; &lt;/li&gt; &lt;li&gt; &lt;a href=&quot;/software/2022/09/12/intro-software.html&quot;&gt;Welcome to Software!&lt;/a&gt; &lt;/li&gt; . Team Members: . .",
           "url": "https://blog.team3749.org/software/",
           "relUrl": "/software/",
           "date": ""
