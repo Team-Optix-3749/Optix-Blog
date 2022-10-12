@@ -45,7 +45,7 @@ image: Dept images
 
 ## Links/Supplementary Material  
 - [Slides from today](https://docs.google.com/presentation/d/1xs2gc0KzQm7CXNx4T5PSF5Ht8kuutGGdPw1XHCpRTsU/edit?usp=sharing)  
-- Electrical Certifications Quiz (Coming soon 💀)
+- [Electrical Certifications Quiz **Please do not use slides**](https://forms.gle/fbAqr6YncPNQv8Zo8)
 - [Team Optix Technology Folder](https://drive.google.com/drive/folders/1D4VNl_CzpGJff69jR2onBDxhrS-d7Ol8?usp=sharing)  
 **Please review necessary slides**
   
