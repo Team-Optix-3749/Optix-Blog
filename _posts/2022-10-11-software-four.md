@@ -9,7 +9,7 @@ hide: false
 
 # Meeting Notes
  - We didn't finish all the work, but we did get through some important concepts like Object Oriented Programming
- - We were missing a decent ammount of people (including Rohin and Rohan D:)
+ - We were missing a decent amount of people (including Rohin and Rohan D:)
  - we got stuck on Lambdas for a while, if you don't understand them it's ok because they're confusing just learn to recognize them and copy their usage to start
 
 
