@@ -24,6 +24,17 @@
   
     
         ,"post2": {
+            "title": "Software Week [5] Meeting Updates",
+            "content": "Meeting Notes . We reviewed last weeks work and went over APIE as well as Lambdas again. | The people who were missing last week all looked over the slides themselves so good job! | . Homework . Finish the activities from today. | . Goals for Next Meeting . Code, code code | Introduce the actual code base! YAY! | We’re gonna figure out why we just learned all the stuff we learned | . Links/Supplementary Material . Slides from today | Java Training Repo | Team Optix Technology Folder | . Author: Toby Leeder .",
+            "url": "https://blog.team3749.org/software/2022/10/11/software-five.html",
+            "relUrl": "/software/2022/10/11/software-five.html",
+            "date": " • Oct 11, 2022"
+        }
+        
+    
+  
+    
+        ,"post3": {
             "title": "Software Week [3] Meeting Updates",
             "content": "Meeting Notes . Most people got through all of today material faster than we expected (really good!) | Many people worked ahead and finished early (Ok as long as the concepts aren’t too confusing) Next week this probably won’t be as good as the concepts are most likely new and difficult | . | Most people also seemed to understand the concepts or already knew them | . Homework . Do anything you didn’t finish today | The homework is on your forked repository We will be checking this homework, make sure it is done well!. | . Goals for Next Meeting . Code, code code | Retain more attention throughout meeting since concepts are more difficult (make them close their computers?) | . Links/Supplementary Material . Slides from today | Java Training Repo | Team Optix Technology Folder | . Author: Toby Leeder .",
             "url": "https://blog.team3749.org/software/2022/10/04/software-three.html",
@@ -34,7 +45,7 @@
     
   
     
-        ,"post3": {
+        ,"post4": {
             "title": "Software Week [2] Meeting Updates",
             "content": "Meeting Notes . Most people were able to fork, clone, make commits to, and push changes to their java training repository | Sometimes branches in VS Code didn’t appear This is because you need to include the copy all branches setting when creating a template!!! This means you will have to make another template &amp; clone it to get the branches on your system! | . | . | . Homework . Have your fork cloned on your laptop | Complete the activity in the printing folder of the week1 branch | Push your changes &amp; send the link to your repository to us! NOTE: We, as leads, will provide feedback on the repositories you send us regarding your code, commit messages, etc. | Goals for Next Meeting . Code, code code | Stick to a proper timeline so that all topics are covered per week | . Links/Supplementary Material . Slides from today | Java Training Repo | Team Optix Technology Folder | . Author: Rohin Sood .",
             "url": "https://blog.team3749.org/software/2022/09/28/software-two.html",
@@ -45,7 +56,7 @@
     
   
     
-        ,"post4": {
+        ,"post5": {
             "title": "Electrical Week [3] Meeting Updates",
             "content": "Meeting Notes . Covered some basic circuit theory | Covered crimping and did an activity on how to crimp (if you didn’t get how to crimp, we can work on it on Wednesday) | Covered how to solder, will start soldering tomorrow | . Homework . Review how to solder, and safety protocol | . Goals for Next Meeting . Start soldering and practice soldering | Practice crimping if necessary | Get to know more about one another! | . Links/Supplementary Material . Slides from today Note Review soldering slides if necessary | . | Team Optix Technology Folder | . Author: Varaprasad Nibhanupudi .",
             "url": "https://blog.team3749.org/electrical/2022/09/28/electrical-three.html",
@@ -56,7 +67,7 @@
     
   
     
-        ,"post5": {
+        ,"post6": {
             "title": "Electrical Week [2] Meeting Updates",
             "content": "Meeting Notes . Electrical board design and positioning | Different types of removable connectors | Tools and methods for wire management on our robot | Created our own electrical board designs! | . Homework . Optional: If you’d like to do stacked and compact board designs, that’d be great! | Similarly, you could also create your own design! | . Goals for Next Meeting . Cover crimping, a new way to connect wires together | Cover soldering | Cover some basic circuit theory (types of circuits, Ohm’s law) | If we have time, introduce more returning members to projects. | . Links/Supplementary Material . Slides from today | Day One Slides if you Need Review | Team Optix Technology Folder | . Author: Varaprasad Nibhanupudi .",
             "url": "https://blog.team3749.org/electrical/2022/09/22/electrical-two.html",
@@ -67,7 +78,7 @@
     
   
     
-        ,"post6": {
+        ,"post7": {
             "title": "Software Week [0] Meeting Updates",
             "content": "Meeting Notes . Covered class structure &amp; how we code as a team @ Team Optix 3749 | Went through the basic definitions and uses of Git, Github, WPILib, a few tools in the WPILib Suite, and FRC Game Tools | Most people got through making a GitHub account and installing Git | WPILib install took too long and had to cut other plans short | Rohin voice diff 😳 | . Homework . Install &amp; sign into Git with an account made on GitHub | Install &amp; set up WPILib Follow the installation guide! | (OPTIONAL): Open WPILib VSCode &amp; install the recommended extensions | . | Install FRC Game Tools Only if you’re not on a mac!!! | Follow the installation guide! | IMPORTANT: We don’t have access to an activiation liscence key, so you’ll have to skip that step and download the free trial (Don’t worry, the free trial doesn’t expire or anything like that) | . | Complete the self-diagnostic This is a really quick multiple choice quiz just to let us know of you preior experience so we can develop our curriculum for your needs | . | . Goals for Next Meeting . Present with greater projection and coherence | Keep track of time &amp; stick to a proper deadline | Wait for questions | Start code code coding! | . Links/Supplementary Material . Slides from today | Team Optix Technology Folder | Self-diagnostic quiz | . Author: Rohin Sood .",
             "url": "https://blog.team3749.org/software/2022/09/13/software-zero.html",
@@ -78,7 +89,7 @@
     
   
     
-        ,"post7": {
+        ,"post8": {
             "title": "Software Week [1] Meeting Updates",
             "content": "Meeting Notes . Covered the basics usage &amp; features of VS Code, java code structure &amp; printing, and the barebones principles of Git &amp; GitHub | We noticed that a few people had trouble with running java in VS Code, this is may be because you have your own version of VS Code open and not WPILib’s Remember, the WPILib suite comes with a java compiler &amp; creates its own version of VS Code already configured for it. If you open your other VS Code, you will have to configure it yourself | . | . Homework . Use our Java Training Repository as a template | View our slides from this week if you need a refresher on the terminology (We’ll be going more in depth the next meeting so it’s okay if you don’t understand most of it for now) | . | . Goals for Next Meeting . Code, code code | Make sure everyone is on the same page | Stick to a proper timeline &amp; agenda | . Links/Supplementary Material . Slides from today | Team Optix Technology Folder | . Author: Rohin Sood .",
             "url": "https://blog.team3749.org/software/2022/09/13/software-one.html",
@@ -89,7 +100,7 @@
     
   
     
-        ,"post8": {
+        ,"post9": {
             "title": "Electrical Week [1] Meeting Updates",
             "content": "Meeting Notes . Covered board and board components | Learned to plug stuff into the PDP | Learned how to strip wires | Getting to know one another | . Homework . None. Just review the slides if you need it. . Goals for Next Meeting . We’re going to review connectors | Review board creation | Make sure we have mastery over | . Links/Supplementary Material . Slides from today | Team Optix Technology Folder | . Author: Varaprasad Nibhanupudi .",
             "url": "https://blog.team3749.org/electrical/2022/09/13/electrical-one.html",
@@ -100,7 +111,7 @@
     
   
     
-        ,"post9": {
+        ,"post10": {
             "title": "Hey Open Alliance!",
             "content": "This is our new Open Alliance Blog Page! We’ll be posting everything from meeting recaps to team bonding activities! Here at Team Optix 3749, we seek to create sustainable access to STEM opportunities in our community and the world! We strive to inspire a generation of leaders, paving the way for local and global change through STEM education. For Team Optix, FIRST is more than robots. . Team Structure . Our team is led by the president and four vice presidents–one for each departmart. Department and subdepartment leads are chosen by the VP. . Build Fabrication/Assembly | Design | . | Technology Software | Electrical | . | Outreach Awards | . | Business Fundraising | Public Relations | Finance | . | . #OpenAlliance . Author: Rohin Sood .",
             "url": "https://blog.team3749.org/misc/2022/09/12/intro.html",
@@ -111,7 +122,7 @@
     
   
     
-        ,"post10": {
+        ,"post11": {
             "title": "Welcome to Software!",
             "content": "In the software sub department, we work on everything from robot code to app development. We’ll be posting weekly meeting updates and our weekly slides/curricula within this category. Check out our GitHub! . Links/Supplementary Material . Preseason Training Slides | Summer Training Slides Java Training Exercises | . | . Team Members: . . Author: Rohin Sood .",
             "url": "https://blog.team3749.org/software/2022/09/12/intro-software.html",
@@ -137,7 +148,7 @@
   
       ,"page1": {
           "title": "Software",
-          "content": "Team Optix Software Slides . . Team Optix 3749 Software Blog Posts . &lt;li&gt; &lt;a href=&quot;/software/2022/10/11/software-four.html&quot;&gt;Software Week [4] Meeting Updates&lt;/a&gt; &lt;/li&gt; &lt;li&gt; &lt;a href=&quot;/software/2022/10/04/software-three.html&quot;&gt;Software Week [3] Meeting Updates&lt;/a&gt; &lt;/li&gt; &lt;li&gt; &lt;a href=&quot;/software/2022/09/28/software-two.html&quot;&gt;Software Week [2] Meeting Updates&lt;/a&gt; &lt;/li&gt; &lt;li&gt; &lt;a href=&quot;/software/2022/09/13/software-zero.html&quot;&gt;Software Week [0] Meeting Updates&lt;/a&gt; &lt;/li&gt; &lt;li&gt; &lt;a href=&quot;/software/2022/09/13/software-one.html&quot;&gt;Software Week [1] Meeting Updates&lt;/a&gt; &lt;/li&gt; &lt;li&gt; &lt;a href=&quot;/software/2022/09/12/intro-software.html&quot;&gt;Welcome to Software!&lt;/a&gt; &lt;/li&gt; . Team Members: . .",
+          "content": "Team Optix Software Slides . . Team Optix 3749 Software Blog Posts . &lt;li&gt; &lt;a href=&quot;/software/2022/10/11/software-four.html&quot;&gt;Software Week [4] Meeting Updates&lt;/a&gt; &lt;/li&gt; &lt;li&gt; &lt;a href=&quot;/software/2022/10/11/software-five.html&quot;&gt;Software Week [5] Meeting Updates&lt;/a&gt; &lt;/li&gt; &lt;li&gt; &lt;a href=&quot;/software/2022/10/04/software-three.html&quot;&gt;Software Week [3] Meeting Updates&lt;/a&gt; &lt;/li&gt; &lt;li&gt; &lt;a href=&quot;/software/2022/09/28/software-two.html&quot;&gt;Software Week [2] Meeting Updates&lt;/a&gt; &lt;/li&gt; &lt;li&gt; &lt;a href=&quot;/software/2022/09/13/software-zero.html&quot;&gt;Software Week [0] Meeting Updates&lt;/a&gt; &lt;/li&gt; &lt;li&gt; &lt;a href=&quot;/software/2022/09/13/software-one.html&quot;&gt;Software Week [1] Meeting Updates&lt;/a&gt; &lt;/li&gt; &lt;li&gt; &lt;a href=&quot;/software/2022/09/12/intro-software.html&quot;&gt;Welcome to Software!&lt;/a&gt; &lt;/li&gt; . Team Members: . .",
           "url": "https://blog.team3749.org/software/",
           "relUrl": "/software/",
           "date": ""
