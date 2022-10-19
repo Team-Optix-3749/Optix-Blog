@@ -2,6 +2,17 @@
   
     
         "post0": {
+            "title": "Software Week [5] Meeting Updates",
+            "content": "Meeting Notes . We reviewed last weeks work and went over APIE as well as Lambdas again. | The people who were missing last week all looked over the slides themselves so good job! | . Homework . Finish the activities from today. | . Goals for Next Meeting . Code, code code | Introduce the actual code base! YAY! | We’re gonna figure out why we just learned all the stuff we learned | . Links/Supplementary Material . Slides from today | Java Training Repo | Team Optix Technology Folder | . Author: Toby Leeder .",
+            "url": "https://blog.team3749.org/software/2022/10/18/software-five.html",
+            "relUrl": "/software/2022/10/18/software-five.html",
+            "date": " • Oct 18, 2022"
+        }
+        
+    
+  
+    
+        ,"post1": {
             "title": "Electrical Week [4] Meeting Updates",
             "content": "Meeting Notes . Started certifications! People got certified in crimping and soldering! | Delayed board design to next meeting | . Homework . Please be prepared for certification and review board design should it be necessary! | . Goals for Next Meeting . Start board design and board creation | Get certified in more aspects of electrical | . Links/Supplementary Material . [Slides from today](— toc: false layout: post description: Recap of week 3 meeting categories: [electrical] title: Electrical Week [3] Meeting Updates hide: false image: Dept images — | . Meeting Notes . Covered some basic circuit theory | Covered crimping and did an activity on how to crimp (if you didn’t get how to crimp, we can work on it on Wednesday) | Covered how to solder, will start soldering tomorrow | . Homework . Review how to solder, and safety protocol | . Goals for Next Meeting . Start soldering and practice soldering | Practice crimping if necessary | Get to know more about one another! | . Links/Supplementary Material . Slides from today | Electrical Certifications Quiz Please do not use slides | Team Optix Technology Folder Please review necessary slides | . Author: Varaprasad Nibhanupudi .",
             "url": "https://blog.team3749.org/electrical/2022/10/12/electrical-four.html",
@@ -12,22 +23,11 @@
     
   
     
-        ,"post1": {
+        ,"post2": {
             "title": "Software Week [4] Meeting Updates",
             "content": "Meeting Notes . We didn’t finish all the work, but we did get through some important concepts like Object Oriented Programming | We were missing a decent amount of people (including Rohin and Rohan D:) | we got stuck on Lambdas for a while, if you don’t understand them it’s ok because they’re confusing just learn to recognize them and copy their usage to start | . Homework . Do anything you didn’t finish today | No extra homework this week because we didn’t get to it! | . Goals for Next Meeting . Code, code code | Finish APIE (heavy concept) and hopefully get even more done to make up some lost time | . Links/Supplementary Material . Slides from today | Java Training Repo | Team Optix Technology Folder | . Author: Toby Leeder .",
             "url": "https://blog.team3749.org/software/2022/10/11/software-four.html",
             "relUrl": "/software/2022/10/11/software-four.html",
-            "date": " • Oct 11, 2022"
-        }
-        
-    
-  
-    
-        ,"post2": {
-            "title": "Software Week [5] Meeting Updates",
-            "content": "Meeting Notes . We reviewed last weeks work and went over APIE as well as Lambdas again. | The people who were missing last week all looked over the slides themselves so good job! | . Homework . Finish the activities from today. | . Goals for Next Meeting . Code, code code | Introduce the actual code base! YAY! | We’re gonna figure out why we just learned all the stuff we learned | . Links/Supplementary Material . Slides from today | Java Training Repo | Team Optix Technology Folder | . Author: Toby Leeder .",
-            "url": "https://blog.team3749.org/software/2022/10/11/software-five.html",
-            "relUrl": "/software/2022/10/11/software-five.html",
             "date": " • Oct 11, 2022"
         }
         
@@ -148,7 +148,7 @@
   
       ,"page1": {
           "title": "Software",
-          "content": "Team Optix Software Slides . . Team Optix 3749 Software Blog Posts . &lt;li&gt; &lt;a href=&quot;/software/2022/10/11/software-four.html&quot;&gt;Software Week [4] Meeting Updates&lt;/a&gt; &lt;/li&gt; &lt;li&gt; &lt;a href=&quot;/software/2022/10/11/software-five.html&quot;&gt;Software Week [5] Meeting Updates&lt;/a&gt; &lt;/li&gt; &lt;li&gt; &lt;a href=&quot;/software/2022/10/04/software-three.html&quot;&gt;Software Week [3] Meeting Updates&lt;/a&gt; &lt;/li&gt; &lt;li&gt; &lt;a href=&quot;/software/2022/09/28/software-two.html&quot;&gt;Software Week [2] Meeting Updates&lt;/a&gt; &lt;/li&gt; &lt;li&gt; &lt;a href=&quot;/software/2022/09/13/software-zero.html&quot;&gt;Software Week [0] Meeting Updates&lt;/a&gt; &lt;/li&gt; &lt;li&gt; &lt;a href=&quot;/software/2022/09/13/software-one.html&quot;&gt;Software Week [1] Meeting Updates&lt;/a&gt; &lt;/li&gt; &lt;li&gt; &lt;a href=&quot;/software/2022/09/12/intro-software.html&quot;&gt;Welcome to Software!&lt;/a&gt; &lt;/li&gt; . Team Members: . .",
+          "content": "Team Optix Software Slides . . Team Optix 3749 Software Blog Posts . &lt;li&gt; &lt;a href=&quot;/software/2022/10/18/software-five.html&quot;&gt;Software Week [5] Meeting Updates&lt;/a&gt; &lt;/li&gt; &lt;li&gt; &lt;a href=&quot;/software/2022/10/11/software-four.html&quot;&gt;Software Week [4] Meeting Updates&lt;/a&gt; &lt;/li&gt; &lt;li&gt; &lt;a href=&quot;/software/2022/10/04/software-three.html&quot;&gt;Software Week [3] Meeting Updates&lt;/a&gt; &lt;/li&gt; &lt;li&gt; &lt;a href=&quot;/software/2022/09/28/software-two.html&quot;&gt;Software Week [2] Meeting Updates&lt;/a&gt; &lt;/li&gt; &lt;li&gt; &lt;a href=&quot;/software/2022/09/13/software-zero.html&quot;&gt;Software Week [0] Meeting Updates&lt;/a&gt; &lt;/li&gt; &lt;li&gt; &lt;a href=&quot;/software/2022/09/13/software-one.html&quot;&gt;Software Week [1] Meeting Updates&lt;/a&gt; &lt;/li&gt; &lt;li&gt; &lt;a href=&quot;/software/2022/09/12/intro-software.html&quot;&gt;Welcome to Software!&lt;/a&gt; &lt;/li&gt; . Team Members: . .",
           "url": "https://blog.team3749.org/software/",
           "relUrl": "/software/",
           "date": ""
