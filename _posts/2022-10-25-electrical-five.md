@@ -9,8 +9,8 @@ image: Dept images
 ---  
 
 # Meeting Notes  
-- Started certifications! People got certified in crimping and soldering!
-- Delayed board design to next meeting
+- More certifications! 
+- We'll be starting project briefs tomorrow (Wednesday)
 
 ## Homework 
 - Please be prepared for certification and review board design should it be necessary!
