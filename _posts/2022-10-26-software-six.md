@@ -18,6 +18,9 @@ hide: false
    - THIS HOMEWORK IS MANDATORY
      - If you don't have this done, you will be marginally behind and it will be much harder to contribute to the team when we split into project groups
      - If you're behind on java training, just get started on this and you'll learn all the java fundamentals along the way
+ - FRC Code Base Quiz
+   - THIS HOMEWORK IS OPTIONAL but is HIGHLY RECOMMEND FOR THOSE WHO MISSED TUESDAY OR WEDNESDAY
+     - This will essentially test your understanding of the command-based programming paradigm in FRC 
 
 ## Goals for Next Meeting
  - Go over answers for the shooter subsystem
