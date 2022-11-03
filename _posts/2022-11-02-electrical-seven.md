@@ -1,9 +1,9 @@
 ---
 toc: false
 layout: post
-description: Recap of week 7 meeting; ENGINEER'S NOTEBOOK RESOURCE LOCATED HERE
+description: Recap of week 7 meeting;
 categories: [electrical] 
-title: Electrical Week [7] Meeting Updates - Preseason projects & Engineer's Notebook!
+title: Electrical Week [7] Meeting Updates
 hide: false
 image: Dept images
 --- 
