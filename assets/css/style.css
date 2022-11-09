@@ -1,3 +1,5 @@
+@import url("https://rsms.me/inter/inter.css");
+@import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Mono&display=swap");
 .highlight .c { color: #998; font-style: italic; }
 
 .highlight .err { color: #a61717; background-color: #e3d2d2; }
@@ -427,76 +429,25 @@ pre code { font-size: 15px !important; }
 
 /*-----------------------------------*/
 /*----- ADD YOUR STYLES BELOW -------*/
-.language-python + .language-plaintext { border-left: 1px solid grey; margin-left: 1rem !important; }
+* { font-family: "Inter", sans-serif !important; }
 
-[class^="language-"]:not(.language-plaintext) pre, [class^="language-"]:not(.language-plaintext) code { background-color: #323443 !important; color: #f8f8f2; }
+@supports (font-variation-settings: normal) { * { font-family: "Inter var", sans-serif !important; } }
 
-.language-python + .language-plaintext code { background-color: white !important; }
-
-.language-python + .language-plaintext pre { background-color: white !important; }
-
-.input_area pre, .input_area div { margin-bottom: 1.0rem !important; margin-top: 1.5rem !important; padding-bottom: 0 !important; padding-top: 0 !important; background: #323443 !important; -webkit-font-smoothing: antialiased; text-rendering: optimizeLegibility; font-family: Menlo, Monaco, Consolas, "Lucida Console", Roboto, Ubuntu, monospace; border-radius: 5px; font-size: 105%; }
-
-.output_area pre, .output_area div { margin-bottom: 1rem !important; margin-top: 0rem !important; padding-bottom: 0 !important; padding-top: 0 !important; }
-
-.input_area pre { border-left: 1px solid lightcoral; }
-
-.output_area pre { border-left: 1px solid grey; margin-left: 1rem !important; font-size: 16px; }
-
-.code_cell table { width: auto; }
-
-/* Dracula Theme v1.2.5 https://github.com/zenorocha/dracula-theme Copyright 2016, All rights reserved Code licensed under the MIT license */
-.highlight { background: #323443 !important; color: #f8f8f2 !important; }
-
-.highlight pre, .highlight code { background: #323443; color: #f8f8f2; font-size: 110%; }
-
-.highlight .hll, .highlight .s, .highlight .sa, .highlight .sb, .highlight .sc, .highlight .dl, .highlight .sd, .highlight .s2, .highlight .se, .highlight .sh, .highlight .si, .highlight .sx, .highlight .sr, .highlight .s1, .highlight .ss { color: #e7997a; }
-
-.highlight .go { color: #44475a; }
-
-.highlight .err, .highlight .g, .highlight .l, .highlight .n, .highlight .x, .highlight .ge, .highlight .gr, .highlight .gh, .highlight .gi, .highlight .gp, .highlight .gs, .highlight .gu, .highlight .gt, .highlight .ld, .highlight .no, .highlight .nd, .highlight .pi, .highlight .ni, .highlight .ne, .highlight .nn, .highlight .nx, .highlight .py, .highlight .w, .highlight .bp { color: #f8f8f2; background-color: #323443 !important; }
-
-.highlight .p { font-weight: bold; color: #66d9ef; }
-
-.highlight .ge { text-decoration: underline; }
-
-.highlight .bp { font-style: italic; }
-
-.highlight .c, .highlight .ch, .highlight .cm, .highlight .cpf, .highlight .cs { color: #6272a4; }
-
-.highlight .c1 { color: gray; }
-
-.highlight .kd, .highlight .kt, .highlight .nb, .highlight .nl, .highlight .nv, .highlight .vc, .highlight .vg, .highlight .vi, .highlight .vm { color: #8be9fd; }
-
-.highlight .kd, .highlight .nb, .highlight .nl, .highlight .nv, .highlight .vc, .highlight .vg, .highlight .vi, .highlight .vm { font-style: italic; }
-
-.highlight .fm, .highlight .na, .highlight .nc, .highlight .nf { color: #ace591; }
-
-.highlight .k, .highlight .o, .highlight .cp, .highlight .kc, .highlight .kn, .highlight .kp, .highlight .kr, .highlight .nt, .highlight .ow { color: #ff79c6; }
-
-.highlight .kc { color: #ace591; }
-
-.highlight .m, .highlight .mb, .highlight .mf, .highlight .mh, .highlight .mi, .highlight .mo, .highlight .il { color: #bd93f9; }
-
-.highlight .gd { color: #ff5555; }
-
-p code { font-size: 19px; }
-
-html, body, input, textarea, select, button { color: rgba(11, 210, 30, 0.87) !important; background-color: #121212 !important; }
+html, body, input, textarea, select, button { color: #16a34a !important; background-color: #e2e8f0 !important; }
 
 a { color: #4bbaff !important; }
 
 a:hover { color: #00b5cf !important; }
 
-.site-title, .site-title:visited { color: rgba(11, 210, 30, 0.87) !important; }
+.site-title, .site-title:visited { color: #16a34a !important; }
 
 .site-nav, .page-link { color: rgba(255, 255, 255, 0.78) !important; }
 
-.site-nav { background-color: #121212; border-color: #333333; }
+.site-nav { background-color: #e2e8f0; border-color: #e6ebf2; }
 
-* { scrollbar-color: #121212 #333333; }
+* { scrollbar-color: #e2e8f0 #e6ebf2; }
 
-pre, code { border-color: #333333; background-color: #1e1e1e; }
+pre, code { border-color: #e6ebf2; background-color: #e3e9f1; }
 
 .page-description { color: rgba(255, 255, 255, 0.78); }
 
@@ -504,19 +455,19 @@ pre, code { border-color: #333333; background-color: #1e1e1e; }
 
 .post-content p, .post-content li { color: rgba(255, 255, 255, 0.78); }
 
-.btn { background-color: #1e1e1e !important; color: rgba(11, 210, 30, 0.87) !important; border-color: #333333 !important; }
+.btn { background-color: #e3e9f1 !important; color: #16a34a !important; border-color: #e6ebf2 !important; }
 
-.btn:hover { background-color: #121212 !important; }
+.btn:hover { background-color: #e2e8f0 !important; }
 
-table th { background-color: #1e1e1e; border-color: #333333; color: rgba(11, 210, 30, 0.87); }
+table th { background-color: #e3e9f1; border-color: #e6ebf2; color: #16a34a; }
 
-table td { background-color: #121212; border-color: #333333; color: rgba(255, 255, 255, 0.78); }
+table td { background-color: #e2e8f0; border-color: #e6ebf2; color: rgba(255, 255, 255, 0.78); }
 
-.flash { color: #121212 !important; filter: brightness(80%); }
+.flash { color: #e2e8f0 !important; filter: brightness(80%); }
 
 canvas { filter: invert(100%); }
 
-.post-list > li > div { box-shadow: none !important; background-color: #1e1e1e; border: none !important; }
+.post-list > li > div { box-shadow: none !important; background-color: #e3e9f1; border: none !important; }
 
 li .post-meta-description { color: rgba(255, 255, 255, 0.78) !important; }
 
