@@ -433,42 +433,42 @@ pre code { font-size: 15px !important; }
 
 @supports (font-variation-settings: normal) { * { font-family: "Inter var", sans-serif !important; } }
 
-html, body, input, textarea, select, button { color: #16a34a !important; background-color: #e2e8f0 !important; }
+html, body, input, textarea, select, button { color: #16a34a !important; background-color: #18181b !important; }
 
 a { color: #4bbaff !important; }
 
 a:hover { color: #00b5cf !important; }
 
-.site-title, .site-title:visited { color: #16a34a !important; }
+.site-title, .site-title:visited { color: #16a34a !important; font-weight: bolder; }
 
-.site-nav, .page-link { color: rgba(255, 255, 255, 0.78) !important; }
+.site-nav, .page-link { color: #171717 !important; }
 
-.site-nav { background-color: #e2e8f0; border-color: #e6ebf2; }
+.site-nav { background-color: #18181b; border-color: #f1f5f9; }
 
-* { scrollbar-color: #e2e8f0 #e6ebf2; }
+* { scrollbar-color: #18181b #f1f5f9; }
 
-pre, code { border-color: #e6ebf2; background-color: #e3e9f1; }
+pre, code { border-color: #f1f5f9; background-color: #f8fafc; }
 
-.page-description { color: rgba(255, 255, 255, 0.78); }
+.page-description { color: #171717; }
 
 .post-meta { color: rgba(255, 255, 255, 0.38); }
 
-.post-content p, .post-content li { color: rgba(255, 255, 255, 0.78); }
+.post-content p, .post-content li { color: #171717; }
 
-.btn { background-color: #e3e9f1 !important; color: #16a34a !important; border-color: #e6ebf2 !important; }
+.btn { background-color: #f8fafc !important; color: #16a34a !important; border-color: #f1f5f9 !important; }
 
-.btn:hover { background-color: #e2e8f0 !important; }
+.btn:hover { background-color: #18181b !important; }
 
-table th { background-color: #e3e9f1; border-color: #e6ebf2; color: #16a34a; }
+table th { background-color: #f8fafc; border-color: #f1f5f9; color: #16a34a; }
 
-table td { background-color: #e2e8f0; border-color: #e6ebf2; color: rgba(255, 255, 255, 0.78); }
+table td { background-color: #18181b; border-color: #f1f5f9; color: #171717; }
 
-.flash { color: #e2e8f0 !important; filter: brightness(80%); }
+.flash { color: #18181b !important; filter: brightness(80%); }
 
 canvas { filter: invert(100%); }
 
-.post-list > li > div { box-shadow: none !important; background-color: #e3e9f1; border: none !important; }
+.post-list > li > div { box-shadow: none !important; background-color: #f8fafc; border: none !important; }
 
-li .post-meta-description { color: rgba(255, 255, 255, 0.78) !important; }
+li .post-meta-description { color: #171717 !important; }
 
 /*# sourceMappingURL=style.css.map */
