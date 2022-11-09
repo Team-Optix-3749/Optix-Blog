@@ -433,7 +433,7 @@ pre code { font-size: 15px !important; }
 
 @supports (font-variation-settings: normal) { * { font-family: "Inter var", sans-serif !important; } }
 
-html, body, input, textarea, select, button { color: #16a34a !important; background-color: #18181b !important; }
+html, body, input, textarea, select, button { color: #16a34a !important; background-color: #e2e8f0 !important; }
 
 a { color: #4bbaff !important; }
 
@@ -443,9 +443,9 @@ a:hover { color: #00b5cf !important; }
 
 .site-nav, .page-link { color: #171717 !important; }
 
-.site-nav { background-color: #18181b; border-color: #f1f5f9; }
+.site-nav { background-color: #e2e8f0; border-color: #f1f5f9; }
 
-* { scrollbar-color: #18181b #f1f5f9; }
+* { scrollbar-color: #e2e8f0 #f1f5f9; }
 
 pre, code { border-color: #f1f5f9; background-color: #f8fafc; }
 
@@ -457,13 +457,13 @@ pre, code { border-color: #f1f5f9; background-color: #f8fafc; }
 
 .btn { background-color: #f8fafc !important; color: #16a34a !important; border-color: #f1f5f9 !important; }
 
-.btn:hover { background-color: #18181b !important; }
+.btn:hover { background-color: #e2e8f0 !important; }
 
 table th { background-color: #f8fafc; border-color: #f1f5f9; color: #16a34a; }
 
-table td { background-color: #18181b; border-color: #f1f5f9; color: #171717; }
+table td { background-color: #e2e8f0; border-color: #f1f5f9; color: #171717; }
 
-.flash { color: #18181b !important; filter: brightness(80%); }
+.flash { color: #e2e8f0 !important; filter: brightness(80%); }
 
 canvas { filter: invert(100%); }
 
