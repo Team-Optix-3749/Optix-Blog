@@ -3,7 +3,7 @@ toc: false
 layout: post
 description: Recap of week 7 meeting;
 categories: [electrical] 
-title: Electrical Week [7] Meeting Updates
+title: Electrical Week [8] Meeting Updates
 hide: false
 image: Dept images
 --- 
