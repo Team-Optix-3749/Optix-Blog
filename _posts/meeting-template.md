@@ -1,26 +1,19 @@
 ---
 toc: false
 layout: post
-#description:
-#categories:
-#tags: 
-title: OA Dept Templates
-hide: true
-#image: Dept images
+description: Our DEPARTMENT meeting recap, takeaways, goals and more!
+categories: [DEPARTMENT]
+title: DEPARTMENT Week [X] Meeting Updates
+hide: true # Remove this line in actual posts
 ---
 
 # Meeting Highlights
-
 - Things that occurred during the meeting, in list form
 
 ## Goals for Next Meeting
 - Goals for next week's meetings
 
 ## Links/Supplementary Material
-- Meeting Highlights: [Meeting Highlights Video](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
-
-- Meeting full VOD: [Full meeting VOD](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
-
 - Slides [Slides Link](https://google.com)
 
-> Author: author
+> Author: Full Name
