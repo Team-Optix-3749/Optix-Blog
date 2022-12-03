@@ -1,9 +1,9 @@
 ---
 toc: false
 layout: post
-description: Our software meeting recap, takeaways, goals and more!
+description: Recap of week 9 meeting;
 categories: [software] 
-title: Software Week [8] Meeting Updates
+title: Electrical Week [9] Meeting Updates
 hide: false
 ---
 
