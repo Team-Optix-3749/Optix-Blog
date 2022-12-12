@@ -3,7 +3,7 @@ toc: false
 layout: post
 description: Our software meeting recap, takeaways, goals and more!
 categories: [software] 
-title: Software Week [9] Meeting Updates
+title: Software Week [10] Meeting Updates
 hide: false
 ---
 
