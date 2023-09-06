@@ -1,10 +1,12 @@
 ---
-toc: false
-layout: post
-description: Our software meeting recap, takeaways, goals and more!
-categories: [software] 
 title: Software Week [10] Meeting Updates
-hide: false
+author: rohin
+categories: [Software]
+week: 10
+description: Our software meeting recap, takeaways, goals and more!
+toc: false
+comments: false
+date: 2022-12-08 12:00:00 +0000
 ---
 
 # Meeting Notes
@@ -26,4 +28,3 @@ hide: false
  - [Slides from today](https://docs.google.com/presentation/d/13wNVw8Bkt2jVeJrUMx-BLiV-7Xcso9YOMK-EpvY8LZg/edit?usp=sharing)
  - [Team Optix Technology Folder](https://drive.google.com/drive/folders/1D4VNl_CzpGJff69jR2onBDxhrS-d7Ol8?usp=sharing)
 
-> Author: Rohin Sood

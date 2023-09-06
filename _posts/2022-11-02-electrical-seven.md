@@ -1,11 +1,12 @@
 ---
-toc: false
-layout: post
-description: Recap of week 7 meeting;
-categories: [electrical] 
 title: Electrical Week [7] Meeting Updates
-hide: false
-image: Dept images
+author: varalu
+categories: [Electrical]
+week: 7
+description: Our electrical meeting recap, takeaways, goals and more!
+toc: false
+comments: false
+date: 2022-11-02 12:00:00 +0000
 --- 
  
 # Meeting Notes 
@@ -55,7 +56,6 @@ Introduced the problem we are trying to solve and the proposed solution we are d
 - ***[Engineer Notebook Slides](https://docs.google.com/presentation/d/1lJG2YpgJt5817UWWudJzny-54TlPLGLMY887zXc3NGE/edit?usp=sharing)***
 - [Team Optix Technology Folder](https://drive.google.com/drive/folders/1D4VNl_CzpGJff69jR2onBDxhrS-d7Ol8?usp=sharing) 
 **Please review necessary slides**
- > Author: Varaprasad Nibhanupudi
 
 
 	

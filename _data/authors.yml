@@ -1,0 +1,29 @@
+## Template › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/advanced-usage.md#setting-author-url
+# -------------------------------------
+# {author_id}:
+#   name: {full name}
+#   twitter: {twitter_of_author}
+#   url: {homepage_of_author}
+# -------------------------------------
+
+david:
+  name: David Vasilev
+  url: https://github.com/DavidVasilev1/
+
+rohin:
+  name: Rohin Sood
+  url: 
+
+varalu:
+  name: Varaprasad Nibhanupudi
+  url: 
+
+toby:
+  name: Toby Leeder
+  url:
+
+rohan:
+  name: Rohan Juneja
+  url: 
+
+# add more

@@ -1,10 +1,12 @@
 ---
-toc: false
-layout: post
-description: Recap of week 10 meeting;
-categories: [software] 
 title: Electrical Week [10] Meeting Updates
-hide: false
+author: varalu
+categories: [Electrical]
+week: 10
+description: Our electrical meeting recap, takeaways, goals and more!
+toc: false
+comments: false
+date: 2022-12-08 12:00:00 +0000
 ---
 
 # Meeting Notes
@@ -49,4 +51,3 @@ Cleaned out and helped with the tech room. all that needs to be done is order th
 ## Links/Supplementary Material
  - [Team Optix Technology Folder](https://drive.google.com/drive/folders/1D4VNl_CzpGJff69jR2onBDxhrS-d7Ol8?usp=sharing)
 
-> Varaprasad Nibhanupudi

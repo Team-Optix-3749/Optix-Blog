@@ -1,13 +1,14 @@
 ---
-toc: false
-layout: post
-description: Recap of week 8 meeting;
-categories: [electrical] 
 title: Electrical Week [8] Meeting Updates
-hide: false
-image: Dept images
+author: varalu
+categories: [Electrical]
+week: 8
+description: Our electrical meeting recap, takeaways, goals and more!
+toc: false
+comments: false
+date: 2022-11-16 12:00:00 +0000
 --- 
- 
+
 # Meeting Notes 
 - Continued with projects
 - CADding started for board, however elevator/claw CADs had issues
@@ -54,7 +55,6 @@ i hope to actually like do things next meeting when I have a computer, and start
 - [Team Optix Technology Folder](https://drive.google.com/drive/folders/1D4VNl_CzpGJff69jR2onBDxhrS-d7Ol8?usp=sharing) 
 **Please review necessary slides**
 
- > Author: Varaprasad Nibhanupudi
 
 
 	

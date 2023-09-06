@@ -1,12 +1,13 @@
---- 
-toc: false 
-layout: post 
-description: Recap of week 2 meeting 
-categories: [electrical]  
+---
 title: Electrical Week [2] Meeting Updates
-hide: false 
-image: Dept images 
----  
+author: varalu
+categories: [Electrical]
+week: 2
+description: Our electrical meeting recap, takeaways, goals and more!
+toc: false
+comments: false
+date: 2022-09-22 12:00:00 +0000
+--- 
 
 # Meeting Notes  
 - Electrical board design and positioning 
@@ -29,4 +30,3 @@ image: Dept images
 - [Day One Slides if you Need Review](https://docs.google.com/presentation/d/1Fy0CMHcj08jdwPNljXRYcRkCK3xdZxKA0lu8hL2MDZg/edit)  
 - [Team Optix Technology Folder](https://drive.google.com/drive/folders/1D4VNl_CzpGJff69jR2onBDxhrS-d7Ol8?usp=sharing)  
   
-> Author: Varaprasad Nibhanupudi

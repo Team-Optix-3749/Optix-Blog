@@ -1,12 +1,13 @@
 ---
-toc: false
-layout: post
-description: Recap of week 1 meeting
-categories: [electrical] 
 title: Electrical Week [1] Meeting Updates
-hide: false
-image: Dept images
----
+author: varalu
+categories: [Electrical]
+week: 1
+description: Our electrical meeting recap, takeaways, goals and more!
+toc: false
+comments: false
+date: 2022-09-13 12:00:00 +0000
+--- 
 
 # Meeting Notes
  - Covered board and board components

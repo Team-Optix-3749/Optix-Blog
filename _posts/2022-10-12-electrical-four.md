@@ -1,12 +1,13 @@
---- 
-toc: false 
-layout: post 
-description: Recap of week 4 meeting 
-categories: [electrical]  
+---
 title: Electrical Week [4] Meeting Updates
-hide: false 
-image: Dept images 
----  
+author: varalu
+categories: [Electrical]
+week: 4
+description: Our electrical meeting recap, takeaways, goals and more!
+toc: false
+comments: false
+date: 2022-10-12 12:00:00 +0000
+--- 
 
 # Meeting Notes  
 - Started certifications! People got certified in crimping and soldering!
@@ -24,4 +25,3 @@ image: Dept images
 - [Team Optix Technology Folder](https://drive.google.com/drive/folders/1D4VNl_CzpGJff69jR2onBDxhrS-d7Ol8?usp=sharing)  
 **Please review necessary slides**
   
-> Author: Varaprasad Nibhanupudi
