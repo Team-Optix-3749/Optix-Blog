@@ -1,11 +1,13 @@
 ---
-toc: false
-layout: post
-description: Our software meeting recap, takeaways, goals and more!
-categories: [software] 
 title: Software Week [5] Meeting Updates
-hide: false
----
+author: toby
+categories: [Software]
+week: 5
+description: Our software meeting recap, takeaways, goals and more!
+toc: false
+comments: false
+date: 2022-10-18 12:00:00 +0000
+--- 
 
 # Meeting Notes
  - We reviewed last weeks work and went over APIE as well as Lambdas again.
@@ -24,5 +26,3 @@ hide: false
  - [Slides from today](https://docs.google.com/presentation/d/1WSSdKdpqc08bVrn0_ILhZARRmI3VnTKpWprmkNCON38/edit?usp=sharing)
  - [Java Training Repo](https://github.com/Team-Optix-3749/Java-Training)
  - [Team Optix Technology Folder](https://drive.google.com/drive/folders/1D4VNl_CzpGJff69jR2onBDxhrS-d7Ol8?usp=sharing)
-
-> Author: Toby Leeder

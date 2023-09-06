@@ -1,15 +1,14 @@
-<!-- the google_analytics_id gets auto inserted from the config file -->
-
-{% if site.google_analytics %}
-
+<!--
+  The GA snippet
+-->
 <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id={{site.google_analytics}}"></script>
+<script defer src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics.id }}"></script>
 <script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+  document.addEventListener("DOMContentLoaded", function(event) {
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
 
-  gtag('config', '{{site.google_analytics}}');
+    gtag('js', new Date());
+    gtag('config', '{{ site.google_analytics.id }}');
+  });
 </script>
-
-{% endif %}

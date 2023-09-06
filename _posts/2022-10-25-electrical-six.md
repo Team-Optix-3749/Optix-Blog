@@ -1,12 +1,13 @@
---- 
-toc: false 
-layout: post 
-description: Recap of week 6 meeting 
-categories: [electrical]  
+---
 title: Electrical Week [6] Meeting Updates
-hide: false 
-image: Dept images 
----  
+author: varalu
+categories: [Electrical]
+week: 6
+description: Our electrical meeting recap, takeaways, goals and more!
+toc: false
+comments: false
+date: 2022-10-25 12:00:00 +0000
+--- 
 
 # Meeting Notes  
 - More certifications
@@ -28,4 +29,3 @@ image: Dept images
 **Please review necessary slides**
 - **[Fill out this form as well](https://docs.google.com/forms/u/6/d/1sDOcLfz7DDRgtVxeHpuEXU8QIt9QpJGENf3IiLh7zww/edit?usp=drive_web)**
   
-> Author: Varaprasad Nibhanupudi

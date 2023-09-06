@@ -1,11 +1,13 @@
 ---
-toc: false
-layout: post
-description: Our software meeting recap, takeaways, goals and more!
-categories: [software] 
 title: Software Week [4] Meeting Updates
-hide: false
----
+author: toby
+categories: [Software]
+week: 4
+description: Our software meeting recap, takeaways, goals and more!
+toc: false
+comments: false
+date: 2022-10-11 12:00:00 +0000
+--- 
 
 # Meeting Notes
  - We didn't finish all the work, but we did get through some important concepts like Object Oriented Programming
@@ -26,4 +28,3 @@ hide: false
  - [Java Training Repo](https://github.com/Team-Optix-3749/Java-Training)
  - [Team Optix Technology Folder](https://drive.google.com/drive/folders/1D4VNl_CzpGJff69jR2onBDxhrS-d7Ol8?usp=sharing)
 
-> Author: Toby Leeder

@@ -1,12 +1,13 @@
 ---
-toc: false
-layout: post
-description: Our software meeting recap, takeaways, goals and more!
-categories: [software] 
 title: Software Week [0] Meeting Updates
-hide: false
-image: Dept images
----
+author: rohin
+categories: [Software]
+week: 0
+description: Our software meeting recap, takeaways, goals and more!
+toc: false
+comments: false
+date: 2022-09-13 12:00:00 +0000
+--- 
 
 # Meeting Notes
  - Covered class structure & how we code as a team @ Team Optix 3749
@@ -37,5 +38,3 @@ image: Dept images
  - [Slides from today](https://docs.google.com/presentation/d/1I68yDPjpXjJ6gYRhUkWYKU1fEuKxTI4cyZddpIgyDkw/edit?usp=sharing)
  - [Team Optix Technology Folder](https://drive.google.com/drive/folders/1D4VNl_CzpGJff69jR2onBDxhrS-d7Ol8?usp=sharing)
  - [Self-diagnostic quiz](https://forms.gle/6qwM6d9hiz9wBoRM8)
-
-> Author: Rohin Sood

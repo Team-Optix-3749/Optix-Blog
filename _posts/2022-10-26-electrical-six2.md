@@ -1,11 +1,12 @@
 ---
-toc: false
-layout: post
-description: Recap of week 7 meeting; ENGINEER'S NOTEBOOK RESOURCE LOCATED HERE
-categories: [electrical] 
 title: Electrical Week [7] Meeting Updates - Preseason projects & Engineer's Notebook!
-hide: false
-image: Dept images
+author: varalu
+categories: [Electrical]
+week: 7
+description: Our electrical meeting recap, takeaways, goals and more! ENGINEER'S NOTEBOOK RESOURCE LOCATED HERE
+toc: false
+comments: false
+date: 2022-10-26 12:00:00 +0000
 --- 
  
 # Meeting Notes 
@@ -52,7 +53,7 @@ image: Dept images
 - [Team Optix Technology Folder](https://drive.google.com/drive/folders/1D4VNl_CzpGJff69jR2onBDxhrS-d7Ol8?usp=sharing) 
 **Please review necessary slides**
 - **[Fill out this form as well](https://docs.google.com/forms/u/6/d/1sDOcLfz7DDRgtVxeHpuEXU8QIt9QpJGENf3IiLh7zww/edit?usp=drive_web)**
- > Author: Varaprasad Nibhanupudi
+
 
 
 	

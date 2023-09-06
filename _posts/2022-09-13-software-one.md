@@ -1,11 +1,13 @@
 ---
-toc: false
-layout: post
-description: Our software meeting recap, takeaways, goals and more!
-categories: [software] 
 title: Software Week [1] Meeting Updates
-hide: false
----
+author: rohin
+categories: [Software]
+week: 1
+description: Our software meeting recap, takeaways, goals and more!
+toc: false
+comments: false
+date: 2022-09-13 12:00:00 +0000
+--- 
 
 # Meeting Notes
  - Covered the basics usage & features of VS Code, java code structure & printing, and the barebones principles of Git & GitHub
@@ -26,4 +28,3 @@ hide: false
  - [Slides from today](https://docs.google.com/presentation/d/1p1cp6cLtpKm4hj9i8r-Ic_xDplZWAnuWKjTcHjwhVmY/edit?usp=sharing)
  - [Team Optix Technology Folder](https://drive.google.com/drive/folders/1D4VNl_CzpGJff69jR2onBDxhrS-d7Ol8?usp=sharing)
 
-> Author: Rohin Sood

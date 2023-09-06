@@ -1,10 +1,13 @@
 ---
-toc: false
-layout: post
-description: Our DEPARTMENT meeting recap, takeaways, goals and more!
-categories: [DEPARTMENT]
 title: DEPARTMENT Week [X] Meeting Updates
-hide: true # Remove this line in actual posts
+author: x # change to name of author and make sure they are in author.yml
+categories: [DEPARTMENT]
+week: x # change to current week
+description: Our DEPARTMENT meeting recap, takeaways, goals and more!
+toc: false
+comments: false
+date: 2022-09-12 12:00:00 +0000 # change date to current
+hide: true # remove this in actual posts
 ---
 
 # Meeting Highlights
@@ -15,5 +18,3 @@ hide: true # Remove this line in actual posts
 
 ## Links/Supplementary Material
 - Slides [Slides Link](https://google.com)
-
-> Author: Full Name

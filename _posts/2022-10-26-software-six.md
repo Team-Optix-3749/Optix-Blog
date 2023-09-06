@@ -1,11 +1,13 @@
 ---
-toc: false
-layout: post
-description: Our software meeting recap, takeaways, goals and more!
-categories: [software] 
 title: Software Week [6] Meeting Updates
-hide: false
----
+author: rohin
+categories: [Software]
+week: 6
+description: Our software meeting recap, takeaways, goals and more!
+toc: false
+comments: false
+date: 2022-10-26 12:00:00 +0000
+--- 
 
 # Meeting Notes
  - We started FRC training and you java training is officially complete 🥶🥶🥶
@@ -33,5 +35,3 @@ hide: false
 ## Links/Supplementary Material
  - [Slides from today](https://docs.google.com/presentation/d/1OtoCpPfZ16jJqgZUz4E3fo6Rp4A_5tlDUElwkNo6fio/edit?usp=sharing)
  - [Team Optix Technology Folder](https://drive.google.com/drive/folders/1D4VNl_CzpGJff69jR2onBDxhrS-d7Ol8?usp=sharing)
-
-> Author: Rohin Sood

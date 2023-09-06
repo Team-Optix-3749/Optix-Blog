@@ -1,9 +1,11 @@
 ---
-toc: false
-layout: post
-description: Welcome to our software department!
-categories: [software]
 title: Welcome to Software!
+author: rohin
+categories: [Software]
+description: Welcome to our software department!
+toc: false
+comments: false
+date: 2022-09-12 12:00:00 +0000
 ---
 
 In the software sub department, we work on everything from robot code to app development. We'll be posting weekly meeting updates and our weekly slides/curricula within this category. <br> [Check out our GitHub!](https://github.com/Team-Optix-3749)

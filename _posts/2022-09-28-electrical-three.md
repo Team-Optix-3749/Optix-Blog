@@ -1,12 +1,13 @@
---- 
-toc: false 
-layout: post 
-description: Recap of week 3 meeting 
-categories: [electrical]  
+---
 title: Electrical Week [3] Meeting Updates
-hide: false 
-image: Dept images 
----  
+author: varalu
+categories: [Electrical]
+week: 3
+description: Our electrical meeting recap, takeaways, goals and more!
+toc: false
+comments: false
+date: 2022-09-28 12:00:00 +0000
+--- 
 
 # Meeting Notes  
 - Covered some basic circuit theory
@@ -26,4 +27,3 @@ image: Dept images
     - **Note** Review soldering slides if necessary
 - [Team Optix Technology Folder](https://drive.google.com/drive/folders/1D4VNl_CzpGJff69jR2onBDxhrS-d7Ol8?usp=sharing)  
   
-> Author: Varaprasad Nibhanupudi
